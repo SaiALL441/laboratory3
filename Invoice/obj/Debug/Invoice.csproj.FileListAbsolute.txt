@@ -1,0 +1,8 @@
+D:\2 курс\ООП\ООП\lab3\Invoice\bin\Debug\Invoice.exe.config
+D:\2 курс\ООП\ООП\lab3\Invoice\bin\Debug\Invoice.exe
+D:\2 курс\ООП\ООП\lab3\Invoice\bin\Debug\Invoice.pdb
+D:\2 курс\ООП\ООП\lab3\Invoice\obj\Debug\Invoice.csproj.AssemblyReference.cache
+D:\2 курс\ООП\ООП\lab3\Invoice\obj\Debug\Invoice.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП\ООП\lab3\Invoice\obj\Debug\Invoice.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП\ООП\lab3\Invoice\obj\Debug\Invoice.exe
+D:\2 курс\ООП\ООП\lab3\Invoice\obj\Debug\Invoice.pdb
