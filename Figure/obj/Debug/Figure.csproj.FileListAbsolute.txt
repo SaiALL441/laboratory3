@@ -1,0 +1,8 @@
+D:\2 курс\ООП\ООП\lab3\Figure\obj\Debug\Figure.csproj.AssemblyReference.cache
+D:\2 курс\ООП\ООП\lab3\Figure\obj\Debug\Figure.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП\ООП\lab3\Figure\obj\Debug\Figure.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП\ООП\lab3\Figure\bin\Debug\Figure.exe.config
+D:\2 курс\ООП\ООП\lab3\Figure\bin\Debug\Figure.exe
+D:\2 курс\ООП\ООП\lab3\Figure\bin\Debug\Figure.pdb
+D:\2 курс\ООП\ООП\lab3\Figure\obj\Debug\Figure.exe
+D:\2 курс\ООП\ООП\lab3\Figure\obj\Debug\Figure.pdb
