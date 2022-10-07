@@ -1,0 +1,8 @@
+D:\2 курс\ООП\ООП\lab3\ThisPro\bin\Debug\ThisPro.exe.config
+D:\2 курс\ООП\ООП\lab3\ThisPro\bin\Debug\ThisPro.exe
+D:\2 курс\ООП\ООП\lab3\ThisPro\bin\Debug\ThisPro.pdb
+D:\2 курс\ООП\ООП\lab3\ThisPro\obj\Debug\ThisPro.csproj.AssemblyReference.cache
+D:\2 курс\ООП\ООП\lab3\ThisPro\obj\Debug\ThisPro.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП\ООП\lab3\ThisPro\obj\Debug\ThisPro.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП\ООП\lab3\ThisPro\obj\Debug\ThisPro.exe
+D:\2 курс\ООП\ООП\lab3\ThisPro\obj\Debug\ThisPro.pdb
